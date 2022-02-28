@@ -1,0 +1,4 @@
+# Auto detect text files and perform LF normalization
+* text=auto
+dist/main/_pywrap_tensorflow_internal.pyd filter=lfs diff=lfs merge=lfs -text
+dist/data/mnist/train/mnist_train_input.npy filter=lfs diff=lfs merge=lfs -text
