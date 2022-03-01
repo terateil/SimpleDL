@@ -79,4 +79,13 @@ ex) 모델 세부 설계 예시
 ex) MNIST 데이터셋에서 모델 훈련, 테스트, 예측을 진행한 모습
 </p>
 
+## 추가 정보
+### 포함된 샘플 데이터셋 정보
+- boston: keras - Boston Housing price regression dataset
+- mnist: keras - MNIST digits classification dataset
+- climate: https://storage.googleapis.com/tensorflow/tf-keras-datasets/jena_climate_2009_2016.csv.zip
+
+더 자세한 정보를 얻고 싶으면 시연영상을 참고하세요.
+https://drive.google.com/drive/folders/1aw8e8dY1in7huqBwnfUAWegX9YSmlJpJ?usp=sharing
+
 
