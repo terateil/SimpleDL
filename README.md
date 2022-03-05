@@ -4,9 +4,10 @@
 </p>
 
 코드 없이 간단한 신경망을 설계, 훈련, 테스트할 수 있는 프로그램입니다.  
+Language: python  
 GUI: Tkinter/
 DL framework: TensorFlow  
-Written in python, December, 2021.
+Project in December, 2021.
 
 ## 시작하기
 프로그램을 사용하려면 repository를 clone 하고, `dist/main/main.exe`를 실행시키세요.  
